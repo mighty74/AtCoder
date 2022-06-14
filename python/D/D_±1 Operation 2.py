@@ -6,6 +6,7 @@ k = []
 for n in range(Q):
     num = int(input())
     dif = 0
+    
     for x in range(N):
         dif+=abs(l[x]- num)
     k.append(dif)
