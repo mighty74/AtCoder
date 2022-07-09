@@ -1,3 +1,4 @@
 # AtCoder
 
-atcoderを解いたものです
+atcoderを解いたものです。
+AC, WA有
